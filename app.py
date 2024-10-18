@@ -357,17 +357,7 @@ with st.sidebar:
     )
     #st.markdown(time.strftime("%A, %d %B %Y"))
 
-    # Create a centered GitHub Fork button using HTML and CSS
-    st.markdown(
-        """
-        <div style="text-align: center; margin-top: 20px;">
-            <a href="https://github.com/CoolboySaurav/streamlit-app" target="_blank">
-                <img src="https://img.shields.io/badge/Fork_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Fork on GitHub">
-            </a>
-        </div>
-        """,
-        unsafe_allow_html=True,
-    )
+
     #st.link_button("Fork me on GitHub", "https://img.shields.io/badge/Fork_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CoolboySaurav/streamlit-app")  # Update with your GitHub repository link
 
 
