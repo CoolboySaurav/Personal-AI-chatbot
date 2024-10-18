@@ -1,6 +1,6 @@
-faiss-cpu==1.9.0         # or the latest version that is compatible with your setup
-pandas==2.2.3            # or the latest version compatible with your environment
-streamlit==1.39.0        # or the latest version compatible with your environment
+faiss-cpu        # or the latest version that is compatible with your setup
+pandas            # or the latest version compatible with your environment
+streamlit       # or the latest version compatible with your environment
 langchain        # or the latest version compatible with your environment
 google-ai-generativelanguage==0.6.10
 google-api-core==2.21.0
@@ -9,7 +9,6 @@ google-auth==2.35.0
 google-auth-httplib2==0.2.0
 google-generativeai==0.8.3
 googleapis-common-protos==1.65.0
-pydantic==2.9.2          # or the latest version compatible with your environment
-pymongo==4.10.1          # or the latest version compatible with your environment
-uuid                      # No installation needed, it's part of the standard library
-json                      # No installation needed, it's part of the standard library
+pydantic         # or the latest version compatible with your environment
+pymongo          # or the latest version compatible with your environment
+
