@@ -8,7 +8,6 @@ asttokens==2.4.1
 attrs==24.2.0
 backcall==0.2.0
 blinker==1.8.2
-blis
 cachetools==5.5.0
 catalogue==2.0.10
 certifi==2024.8.30
